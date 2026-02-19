@@ -1,4 +1,4 @@
-# Python Mini Projects
+# Python Projects
 A collection of Python scripts made by me.
 
 ## Projects
